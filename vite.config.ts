@@ -10,8 +10,8 @@ export default defineConfig({
     {
       name: 'generate-sitemap',
       closeBundle: () => {
-        const baseUrl = 'https://copiesmoze.pl'; // Replace with your actual domain
-        
+        const baseUrl = 'https://czypiesmozezjesc.pl'; // Replace with your actual domain
+
         const paths = [
           '/',
           '/search',
