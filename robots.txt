@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://copiesmoze.pl/sitemap.xml
+Sitemap: https://czypiesmozezjesc.pl/sitemap.xml
